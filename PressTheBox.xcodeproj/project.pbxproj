@@ -15,6 +15,7 @@
 		BFAB3BB51DD2C8CF00A15B9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFAB3BB31DD2C8CF00A15B9B /* LaunchScreen.storyboard */; };
 		BFAB3BC01DD2C8CF00A15B9B /* PressTheBoxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BFAB3BBF1DD2C8CF00A15B9B /* PressTheBoxTests.m */; };
 		BFAB3BCB1DD2C8CF00A15B9B /* PressTheBoxUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BFAB3BCA1DD2C8CF00A15B9B /* PressTheBoxUITests.m */; };
+		BFAB3BD91DD2DAE400A15B9B /* Assets拼图 in Resources */ = {isa = PBXBuildFile; fileRef = BFAB3BD81DD2DAE400A15B9B /* Assets拼图 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		BFAB3BC61DD2C8CF00A15B9B /* PressTheBoxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PressTheBoxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFAB3BCA1DD2C8CF00A15B9B /* PressTheBoxUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PressTheBoxUITests.m; sourceTree = "<group>"; };
 		BFAB3BCC1DD2C8CF00A15B9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFAB3BD81DD2DAE400A15B9B /* Assets拼图 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Assets拼图"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		BFAB3BA41DD2C8CF00A15B9B /* PressTheBox */ = {
 			isa = PBXGroup;
 			children = (
+				BFAB3BD81DD2DAE400A15B9B /* Assets拼图 */,
 				BFAB3BA81DD2C8CF00A15B9B /* AppDelegate.h */,
 				BFAB3BA91DD2C8CF00A15B9B /* AppDelegate.m */,
 				BFAB3BAB1DD2C8CF00A15B9B /* ViewController.h */,
@@ -250,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFAB3BB51DD2C8CF00A15B9B /* LaunchScreen.storyboard in Resources */,
+				BFAB3BD91DD2DAE400A15B9B /* Assets拼图 in Resources */,
 				BFAB3BB21DD2C8CF00A15B9B /* Assets.xcassets in Resources */,
 				BFAB3BB01DD2C8CF00A15B9B /* Main.storyboard in Resources */,
 			);
