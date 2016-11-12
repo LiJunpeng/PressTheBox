@@ -78,11 +78,7 @@ UILabel *title_label;
     title_label.textAlignment =  UITextAlignmentCenter;
     title_label.text = @"Press the box";
     [self.view addSubview:title_label];
-
-    
 }
-
-
 
 - (void) buttonTouchUpInside:(UIButton *)button {
     
